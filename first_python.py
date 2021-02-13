@@ -3,7 +3,7 @@ import os
 def main():
     os.system("cls")
     print("-----------------------------------")
-    print("Program Python Saya")
+    print("Program Python Saya By Ryanzz")
     print("-----------------------------------")
     print("1. Program Pertama Saya")
     print("2. Kalkulator")
